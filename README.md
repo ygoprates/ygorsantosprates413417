@@ -488,13 +488,7 @@ Para contribuir com melhorias:
 ## 📄 Licença
 
 Este projeto é fornecido como parte do processo seletivo.
-
-## 📞 Informações de Contato
-
-**Candidato**: [Seu Nome]  
-**Data de Submissão**: [Data]  
-**Vaga**: Senior Backend Engineer - Java/Spring Boot
-
 ---
 
 **Desenvolvido com ❤️ usando Spring Boot 3.3, PostgreSQL, MinIO e Docker**
+
